@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <João> -- <Dias> -- <ok>
 
 # THANKS
 
